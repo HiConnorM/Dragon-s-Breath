@@ -1,0 +1,7 @@
+Dragon's Breath/Builds/
+*.log
+*.tmp
+*.o
+*.dSYM/
+
+
